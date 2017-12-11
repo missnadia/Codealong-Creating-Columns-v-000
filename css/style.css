@@ -93,11 +93,13 @@ img, video, audio {
 .col-1 {
   float: left;
   margin: 32%;
+  background: #ccc;
 }
 
 .col-2 {
   float: left;
   margin: 66%;
+  background: #ccc;
 }
 
 .col-3 {
