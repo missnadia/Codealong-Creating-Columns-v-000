@@ -89,3 +89,7 @@ figcaption {
 .col-3 {
 
 }
+
+.clearfix:after {
+
+}
